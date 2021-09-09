@@ -114,7 +114,6 @@
 				CBC59B74661725A5B145D51E /* Pods-jamapass-jamapassTests.debug.xcconfig */,
 				16A06F454E3A53907365878B /* Pods-jamapass-jamapassTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
